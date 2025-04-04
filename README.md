@@ -2,6 +2,26 @@
 
 A simple and interactive **password manager** built using **React.js**. Users can store, search, and manage passwords efficiently with a user-friendly interface.  
 
+## 🌍 Live Demo  
+🔗 **[Password Manager Live](https://manojsafelocker.ccbp.tech)**  
+
+
+## 🖼️ Screenshots
+
+### 📄 Form UI
+![image](https://github.com/user-attachments/assets/38a66e16-7673-4a21-a337-546287119a7c)
+
+### 🔑 No Passwords UI
+![image](https://github.com/user-attachments/assets/e54ac32f-1ff7-40d2-9c77-9bbd7414689b)
+
+
+## 📸 Preview  
+<br/>
+<div style="text-align: center;">
+    <img src="https://assets.ccbp.in/frontend/content/react-js/passowrd-manager-output-v0.gif" alt="password manager" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/> 
+
 ## 🚀 Features  
 ✅ **Add New Password** – Store website, username, and password securely.  
 ✅ **Password Visibility Toggle** – Click checkbox to show/hide passwords (🔒➡️👁️).  
@@ -20,15 +40,8 @@ A simple and interactive **password manager** built using **React.js**. Users ca
 - `onAddPassword` – Adds a new password to the list.  
 - `render()` – Handles the UI display logic.  
 
-## 🌍 Live Demo  
-🔗 **[Password Manager Live](https://manojsafelocker.ccbp.tech)**  
 
-## 📸 Preview  
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/passowrd-manager-output-v0.gif" alt="password manager" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-<br/> 
+
 
 ## 🛠️ Tech Stack  
 - React.js  
